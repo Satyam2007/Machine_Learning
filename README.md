@@ -1,2 +1,2 @@
 # Machine_Learning
-This repository contains some example of machine learning models trained on some common data sets obtained from Kaggle
+This repository contains attempts made towards applying Machine Learning techniques for predicting the contact information of RNA structure.
